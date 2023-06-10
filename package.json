@@ -1,9 +1,9 @@
 {
   "name": "semantic-release-image",
   "dependencies": {
-    "@semantic-release/changelog": "^6.0.0",
-    "@semantic-release/exec": "^6.0.1",
-    "@semantic-release/git": "^10.0.0",
+    "@semantic-release/changelog": "github:semantic-release/changelog",
+    "@semantic-release/exec": "github:semantic-release/exec",
+    "@semantic-release/git": "github:semantic-release/git",
     "@semantic-release/github": "github:semantic-release/github",
     "semantic-release": "^21.0.5"
   }
