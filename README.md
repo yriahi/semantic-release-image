@@ -16,8 +16,3 @@ The following packages are installed globally:
 - `@semantic-release/exec`
 
 You find the exact versions of the packages in the package.json file.
-
-### Versions
-
-Since there is no "correct" way to combine all those different versions
-for a useful docker tag, a timestamp will be used for each build.
